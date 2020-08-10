@@ -1,3 +1,4 @@
+print("#####杨辉三角#####")
 temp = input("请输入行数:")
 guess = int(temp)
 
